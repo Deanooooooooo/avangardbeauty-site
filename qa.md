@@ -55,4 +55,8 @@ PASS with testimonial blocker above.
 - Footer icon/action system is consistent.
 
 ## Gate 9 — final live QA after deploy
-Pending until GitHub Pages publishes.
+PASS with testimonial blocker above.
+- Live HTTP 200 confirmed.
+- Live HTML contains AvangardBeauty, Studio24, HairSalon schema, canonical, OG image, phone CTA, and map/contact block.
+- Live OG image returns HTTP 200.
+- Live mobile map clip renders visibly: `artifacts/avangardbeauty-live-map-clip.png`.
